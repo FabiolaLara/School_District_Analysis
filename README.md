@@ -29,3 +29,6 @@ The "average math and reading scores" were not affected either due the calculati
   * Scores by school type
   In this field the results will be affected due the "type" of Thomas High School is Charter, so this school dont have reading and math grades therefore   the average will be reduced for all the "charter" type schools in comparision with the "District" schools.
   PHOTO
+# Summary
+We could mention that there were some changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. 
+To start with, the number of student was reduced in nearly 500 students, secondly we. got a new Data Frame at merging our school_data_df and student_data_df, third we have our updated data frame with values = NaN, and four we create new Data Frames when summarizing information.
